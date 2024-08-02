@@ -1,0 +1,35 @@
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mayah\My Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mayah\Documents\Drive\CS assignments\CS 3280\Module 8 - ADO.net\Challenge\maya_cizina_Challenge8\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\My Drive\CS Classes\CS 3280\Module 9 - DataGrid and MDI\Challenge\Challenge9_MayaCizina\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+H:\My Drive\CS Classes\CS 3280\Module 10 - File Operations and Exception\Challenge\OOPDesign\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
